@@ -1,0 +1,6 @@
+Preference:
+        Favorite movie - Волк с Уолл-стрит;
+        Favorite series - Сотня;
+        Favorite food - Окрошка, Жареная картошка;
+        Favorite season - Лето, Осень;
+        Favorite countries - Швейцария, Канада.

@@ -1,10 +1,10 @@
-info:
-  about_me:
-           name - Vitaly,
-           lastname - Krivoruchek,
-           age - 23,
-           pets - 3.
-  work:
-       position - QA Engineer"
-       salary - 600,
-       currency - USD.	
+Info:
+  About me:
+          Name - Vitaly;
+          Lastname - Krivoruchek;
+          Age - 23;
+          Pets - 3.
+  Work:
+      Position - QA Engineer;
+      Salary - 600;
+      Currency - USD.	
