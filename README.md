@@ -1,3 +1,13 @@
+[HW_2 : Terminal. Format : JSON](https://github.com/Vitaly-chek/JSON)
+
+[HW_2 : Terminal. Format : XML](https://github.com/Vitaly-chek/XML)
+
+[HW_1 : Terminal](https://github.com/Vitaly-chek/Terminal)
+
+[HW_1 : Git](https://github.com/Vitaly-chek/Git)
+
+---
+
 # HW_2 : TXT
 
 1. Create an external repository called TXT;
