@@ -1,18 +1,18 @@
 # HW_2 : TXT
 
-1. Создать внешний репозиторий c названием TXT;
+1. Create an external repository called TXT;
 
-2. Клонировать репозиторий TXT на локальный компьютер - `git clone URL`;
+2. Clone the TXT repository to the local computer - `git clone URL`;
 
-3. Внутри локального TXT создать файл “new.txt” - `touch new.txt`;
+3. Inside the local TXT create a file “new.txt” - `touch new.txt`;
 
-4. Добавить файл под гит - `git add .`;
+4. Add a file under git - `git add .`;
 
-5. Закоммитить файл - `git commit -m "create new file"`;
+5. Commit the file - `git commit -m "create new file"`;
 
-6. Отправить файл на внешний GitHub репозиторий - `git push`;
+6. Push the file to an external GitHub repository - `git push`;
 
-7. Отредактировать содержание файла “new.txt” - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в формате TXT:
+7. Edit the contents of the “new.txt” file - write information about yourself (name, age, number of pets, future desired salary). Write everything in TXT format:
 
 ```
 Info:
@@ -27,77 +27,77 @@ Info:
       Currency - USD.	
 ```
 
-8. Отправить изменения на внешний репозиторий - `git commit -am "updated file"`;
+8. Push changes to an external repository - `git commit -am "updated file"`;
 
-9. Создать файл preferences.txt - `touch preferences.txt`;
+9. Create file preferences.txt - `touch preferences.txt`;
 
-10. В файл preferences.txt” добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате TXT:
+10. Add information about your preferences (Favorite movie, favorite TV series, favorite food, favorite season, side you would like to visit) to the file preferences.txt in TXT format:
 
 ```
 Preference:
-        Favorite movie - Волк с Уолл-стрит;
-        Favorite series - Сотня;
-        Favorite food - Окрошка, Жареная картошка;
-        Favorite season - Лето, Осень;
-        Favorite countries - Швейцария, Канада.
+        Favorite movie - The Wolf of Wall Street;
+        Favorite series - The 100;
+        Favorite food - Okroshka, Fried potatoe;
+        Favorite season - Summer, Autumn;
+        Favorite countries - Switzerland, Canada.
 ```
 
-11. Создать файл skills.txt добавить информацию о скиллах которые будут изучены на курсе в формате TXT - `touch skills.txt`:
+11. Create a skills.txt file, add information about the skills that were studied on the course in TXT format - `touch skills.txt`:
 
 ```
 Skills:
-        1. Базовая теория;
-        2. Что такое клиент-серверная архитектура;
-        3. HTTP Методы запросов на сервер;
-        4. Коды ответов HTTP сервера;
-        5. Структуры HTTP запросов и ответов;
-        6. Что такое JSON, XML. Их структура;
-        7. Тестирование API через Postman (JS, автотесты API);
-        8. Снятие и чтение логов c внешнего сервера;
-        9. Снифинг http web трафика через Charles и Fiddler;
-        10. Dev Tools веб браузеров (Google Chrome, FireFox);
-        11. VPN. (Как работает, зачем нужен, как использовать, варианты инструментов);
-        12. Мобильное тестирование;
-        13. Особенность iOS, Android, гайдлайны;
-        14. Сборка iOS приложений на XCode. (У кого нет Mac компьютера, просто посмотрят);
-        15. Сборка Android приложений на Android Studio;
-        16. ADB (управление андройд девайсами);
-        17. Настройка прокси и vpn на iOS и Android;
-        18. Перехват (сниффинг) мобильного трафика через Charles и Fiddler на iOS и Android;
-        19. Командная строка (terminal) Linux (копирование, создание, просмотр, перемещение файлов на серверах без графического интерфейса);
-        20. Основы bash скриптинг, автоматизация рутинных задач на сервере;
-        21. Доступ к удалённым серверам;
-        22. Основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join);
-        23. База данных Postgres (установка, настройка и использование);
-        24. Нереляционная база данных Redis (установка, настройка и использование);
-        25. Нагрузочное тестирование в Jmeter;
-        26. Методология разработки Scrum.
+        1. Basic theory;
+        2. What is client-server architecture;
+        3. HTTP Server request methods;
+        4. HTTP server response codes;
+        5. HTTP request and response structures;
+        6. What is JSON, XML. Their structure;
+        7. API testing via Postman (JS, API autotests);
+        8. Removing and reading logs from an external server;
+        9. Sniffing http web traffic via Charles and Fiddler;
+        10. Dev Tools of web browsers (Google Chrome, FireFox);
+        11. VPN. (How it works, why you need it, how to use it, tool options);
+        12. Mobile testing;
+        13. iOS feature, android, guidelines;
+        14. Building iOS apps with XCode;
+        15. Building Android apps with Android Studio;
+        16. ADB (android device management);
+        17. Proxy and vpn setup on iOS and Android;
+        18. Interception (sniffing) mobile traffic via Charles and Fiddler on iOS and Android;
+        19. Linux command line (terminal) (copy, create, view, move files on non-GUI servers);
+        20. Basic bash scripting, automation of routine tasks on the server;
+        21. Access to remote servers;
+        22. SQL Basics (Create, Delete, Drop, Insert Into, Select, From, Where, Join);
+        23. Postgres database (installation, configuration and use);
+        24. Redis non-relational database (installation, configuration and use);
+        25. Load testing in Jmeter;
+        26. Scrum development methodology.
 ```
 
-12. Сделать коммит в одну строку - `git add . && git commit -m "new 2 files"`;
+12. Make a commit in one line - `git add . && git commit -m "new 2 files"`;
 
-13. Отправить сразу 2 файла на внешний репозиторий - `git push`;
+13. Send 2 files at once to an external repository - `git push`;
 
-14. На веб интерфейсе создать файл bug_report.txt;
+14. On the web interface, create a file bug_report.txt;
 
-15. Сделать Commit changes (сохранить) изменения на веб интерфейсе;
+15. Make Commit changes (save) changes on the web interface;
 
-16. На веб интерфейсе модифицировать файл bug_report.txt, добавить баг репорт в формате TXT:
+16. Modify the bug_report.txt file on the web interface, add a bug report in TXT format:
 
 ```
 Bug report:
-        Project - Заметки;
+        Project - Notes;
         Version - 1.3;
         Id - №5;
-        Summary - При клике на кнопку фильтрации 'A to Z' на главной странице приложения происходит хаотичная фильтрация списков";
-        Step to reproduce":
-                1. Открыть приложение 'Заметки';
-                2. Создать 15 списков, которые будут начинаться соответственно (A, a, D, 3, :, U, u, Ш, ш, 5, @, Ї, ї, -, d);
-                3. На главной странице приложения ликнуть на кнопку фильтрации 'A to Z';
-        Actual_result - Списки сортируются хаотично;
+        Summary - When clicking on the 'A to Z' filtering button on the main page of the application, chaotic filtering of lists occurs;
+        Step to reproduce:
+                1. Open the 'Notes' app;
+                2. Create 15 lists that will start accordingly (A, a, D, 3, :, U, u, Ш, ш, 5, @, Ї, ї, -, d);
+                3. On the main page of the application, click on the filter button 'A to Z';
+        Actual_result - Lists are sorted randomly;
         Expected_result: 
-                1. Списки сортируются по порядку: символы, цифры, буквы латиницы (сначала верхний регистр), буквы кириллицы (сначала верхний регистр);
-                2. Правильный порядок: (-, :, @, 3, 5, А, а, D, d, U, u, Ї, ї, Ш, ш).
+                1. The lists are sorted in order: symbols, numbers, Latin letters (upper case first), Cyrillic letters (upper case first);
+                2. Correct order: (-, :, @, 3, 5, А, а, D, d, U, u, Ї, ї, Ш, ш).
         Severity - Minor;
         Priority - Normal;
         Status - New;
@@ -106,6 +106,6 @@ Bug report:
         Assignee - Ivan.
 ```
 
-17. Сделать Commit changes (сохранить) изменения на веб интерфейсе;
+17. Make Commit changes (save) changes on the web interface;
 
-18. Синхронизировать внешний и локальный репозиторий TXT - `git pull`.
+18. Synchronize external and local TXT repository - `git pull`.

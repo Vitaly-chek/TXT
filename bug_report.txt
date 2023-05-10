@@ -1,16 +1,16 @@
 Bug report:
-        Project - Заметки;
+        Project - Notes;
         Version - 1.3;
         Id - №5;
-        Summary - При клике на кнопку фильтрации 'A to Z' на главной странице приложения происходит хаотичная фильтрация списков";
-        Step to reproduce":
-                1. Открыть приложение 'Заметки';
-                2. Создать 15 списков, которые будут начинаться соответственно (A, a, D, 3, :, U, u, Ш, ш, 5, @, Ї, ї, -, d);
-                3. На главной странице приложения ликнуть на кнопку фильтрации 'A to Z';
-        Actual_result - Списки сортируются хаотично;
+        Summary - When clicking on the 'A to Z' filtering button on the main page of the application, chaotic filtering of lists occurs;
+        Step to reproduce:
+                1. Open the 'Notes' app;
+                2. Create 15 lists that will start accordingly (A, a, D, 3, :, U, u, Ш, ш, 5, @, Ї, ї, -, d);
+                3. On the main page of the application, click on the filter button 'A to Z';
+        Actual_result - Lists are sorted randomly;
         Expected_result: 
-                1. Списки сортируются по порядку: символы, цифры, буквы латиницы (сначала верхний регистр), буквы кириллицы (сначала верхний регистр);
-                2. Правильный порядок: (-, :, @, 3, 5, А, а, D, d, U, u, Ї, ї, Ш, ш).
+                1. The lists are sorted in order: symbols, numbers, Latin letters (upper case first), Cyrillic letters (upper case first);
+                2. Correct order: (-, :, @, 3, 5, А, а, D, d, U, u, Ї, ї, Ш, ш).
         Severity - Minor;
         Priority - Normal;
         Status - New;

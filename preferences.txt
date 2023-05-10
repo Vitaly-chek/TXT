@@ -1,6 +1,6 @@
 Preference:
-        Favorite movie - Волк с Уолл-стрит;
-        Favorite series - Сотня;
-        Favorite food - Окрошка, Жареная картошка;
-        Favorite season - Лето, Осень;
-        Favorite countries - Швейцария, Канада.
+        Favorite movie - The Wolf of Wall Street;
+        Favorite series - The 100;
+        Favorite food - Okroshka, Fried potatoe;
+        Favorite season - Summer, Autumn;
+        Favorite countries - Switzerland, Canada
